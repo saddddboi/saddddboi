@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="332" viewBox="0 0 1080 332" role="img" aria-labelledby="title desc">
+  <title id="title">saddddboi — Always curious. Learning by building.</title>
+  <desc id="desc">A pale blue banner with a blueprint cube. Exploring AI, backend development, and software architecture.</desc>
+  <defs>
+    <linearGradient id="paper" x2="1" y2=".4"><stop stop-color="#f4f9ff"/><stop offset="1" stop-color="#e6f1ff"/></linearGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#abcaf1" opacity=".55"/></pattern>
+    <clipPath id="frame"><rect width="1080" height="332" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1080" height="332" fill="url(#paper)"/>
+    <circle cx="974" cy="105" r="244" fill="#d5e8ff" opacity=".6"/>
+    <circle cx="974" cy="105" r="199" fill="#e7f2ff"/>
+    <circle cx="974" cy="105" r="149" fill="#dcecff" opacity=".7"/>
+    <rect x="693" width="387" height="332" fill="url(#dots)"/>
+    <path d="M 737 278 L 893 188 L 1049 278 L 893 368 Z" fill="#c6defb" opacity=".35"/>
+    <path d="M 733 282 L 893 190 L 1053 282 M 773 305 L 933 213 M 813 328 L 973 236 M 1013 305 L 853 213 M 973 328 L 813 236" fill="none" stroke="#b5d3f6" stroke-width="1"/>
+    <g stroke="#79a9e5" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M 794 127 L 883 77 L 972 127 L 883 177 Z" fill="#f4f9ff"/>
+      <path d="M 794 127 L 883 177 L 883 271 L 794 220 Z" fill="#bdd9fc" fill-opacity=".75"/>
+      <path d="M 883 177 L 972 127 L 972 220 L 883 271 Z" fill="#d7e9ff"/>
+      <path d="M 794 172 L 883 223 L 972 172 M 838 102 L 927 152 L 927 245 M 927 102 L 838 152 L 838 245" fill="none" stroke="#9fc2ef"/>
+    </g>
+    <g fill="#4c88d3"><circle cx="794" cy="127" r="3.5"/><circle cx="883" cy="77" r="3.5"/><circle cx="972" cy="220" r="3.5"/><circle cx="883" cy="271" r="3.5"/></g>
+    <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+      <text x="52" y="49" fill="#537cae" font-family="Consolas, monospace" font-size="12" letter-spacing="2">saddddboi</text>
+      <text x="49" y="121" fill="#24496f" font-size="51" font-weight="650" letter-spacing="-1.8">Always curious.</text>
+      <text x="49" y="181" fill="#4382d3" font-size="51" font-weight="650" letter-spacing="-1.8">Learning by building.</text>
+      <text x="53" y="224" fill="#607e9f" font-size="15">Exploring intelligent applications and the systems behind them.</text>
+      <path d="M 53 277 H 77" stroke="#6499df" stroke-width="2"/>
+      <text x="89" y="281" fill="#587eac" font-family="Consolas, monospace" font-size="11" letter-spacing="1.7">AI / BACKEND / ARCHITECTURE</text>
+      <text x="802" y="307" fill="#7e9fc4" font-family="Consolas, monospace" font-size="9" letter-spacing="1">IDEAS INTO UNDERSTANDING</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1079" height="331" rx="17.5" fill="none" stroke="#d0e3fb"/>
+</svg>

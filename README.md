@@ -30,7 +30,7 @@
 
 <br />
 
-### A contribution I'm proud of
+### Open-source contributions
 
 **[DeerFlow](https://github.com/bytedance/deer-flow) · Open-source contributor**
 
